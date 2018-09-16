@@ -1,0 +1,23 @@
+_repo: Poems_51904
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conant, Henry Reed
+    birthdate: 1872
+    gutenberg_agent_id: '46601'
+    url: http://www.gutenberg.org/2009/agents/46601
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 19th century'
+- GITenberg
+title: Poems
+url: http://www.gutenberg.org/ebooks/51904
